@@ -1,112 +1,18 @@
-<h1 align="center">Hi, I'm Fahad Sohail 👋</h1>
+# 💫 About Me:
+I am a Computer Science graduate specializing in data analysis and machine learning, actively seeking entry-level opportunities to grow as a data professional. I am passionate about taking complex, unstructured datasets and transforming them into meaningful, actionable business insights. Through my academic journey and hands-on project work, I have developed a strong foundation in building scalable ETL pipelines, training machine learning models, and developing full-stack applications. I am eager to bring my proficiency in Python, PySpark, and modern analytics frameworks to a dynamic team where I can solve real-world problems through rigorous analysis and clean code practices.
 
-<p align="center">
-  <b>Computer Science Graduate · Data Engineer · Full-Stack Developer</b><br/>
-  Building scalable data pipelines and full-stack applications that deliver real business value.
-</p>
 
-<p align="center">
-  <a href="mailto:fahadsohail133@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fahad-sohail-bb2090293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/FaHaD212003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fahad sohail) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahadsohail21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fahad Sohail) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadsohail133@gmail.com) 
 
----
-
-## 🙋‍♂️ About Me
-
-I'm a CS graduate from **COMSATS University Lahore** (2022–2026) specialising in **data analysis**, **machine learning**, and **full-stack development**. I enjoy turning messy, unstructured data into actionable insights — and shipping clean, well-engineered products on top of them.
-
-- 🔭 Currently working on big data analytics and headless e-commerce platforms
-- 🌱 Deepening my skills in ML/DL, NLP, and distributed data systems
-- 💬 Ask me about Python, PySpark, FastAPI, React, or prompt engineering
-- 📫 Reach me at **fahadsohail133@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=FaHaD212003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=FaHaD212003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=FaHaD212003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=FaHaD212003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=spacy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Data & Backend**
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI Tools**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A0DAD?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [Pulse – E-Commerce Big Data Analytics Platform](https://github.com/FaHaD212003)
-`Python` `Apache Spark` `FastAPI` `React`
-
-Engineered scalable backend data pipelines to clean and analyse complex e-commerce datasets for predictive analytics. Architected a full authentication system (Google OAuth + password recovery) across consumer and admin interfaces.
-
----
-
-### 🛒 Full-Stack E-Commerce Platform *(Final Year Project)*
-`Next.js` `React` `TypeScript` `Shopify API`
-
-Built a headless e-commerce storefront and admin panel with advanced search, dynamic product filtering, and secure user authentication. Focused on end-to-end shopping experience optimisation.
-
----
-
-### ⚙️ E-Commerce ETL Data Pipeline
-`Python` `PySpark` `Data Analytics`
-
-Designed a complete ETL pipeline to ingest, clean, and transform large-scale Kaggle e-commerce datasets. Performed complex data aggregations and generated analytical charts and business insights via Jupyter Notebooks.
-
----
-
-### 🤖 Generative AI Chat Interface *(Gemini Clone)*
-`React` `Google Gemini API` `JavaScript` `CSS`
-
-Developed a responsive web app replicating the Google Gemini UI with real-time AI-generated responses, natural language query processing, and interactive prompt suggestions.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaHaD212003&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaHaD212003&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code, meaningful data, real impact."</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
